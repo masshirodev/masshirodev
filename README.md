@@ -4,7 +4,7 @@ I'm a developer passionate about building tools that streamline workflows and au
 
 ### 🛠 What I'm building
 - **[minion-quick-start](https://github.com/masshirodev/minion-quick-start)**: A public template for rapid development of MMOMinion addons in Lua.
-- **[gpc-ide](https://github.com/masshirodev/gpc-ide)**: Developing a dedicated IDE for the GPC language.
+- **[ZenForge](https://github.com/masshirodev/zenforge)**: Developing a dedicated IDE for the GPC language.
 - **[TooManyFish](https://github.com/masshirodev/TooManyFish)**: A utility addon for inventory management and fishing automation in FFXIV.
 - **[dotfiles](https://github.com/masshirodev/dotfiles)**: My personal Hyprland configuration and desktop environment setup.
 
