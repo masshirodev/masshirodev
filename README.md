@@ -7,9 +7,7 @@ I'm a developer passionate about building tools that streamline workflows and au
 - **[ai-session](https://github.com/masshirodev/ai-session)**: A Go CLI that keeps AI coding tools (Claude Code, Codex, OpenCode) in isolated per-profile sessions, and lets the agents find and message each other.
 - **[minion-quick-start](https://github.com/masshirodev/minion-quick-start)**: A public template for rapid development of MMOMinion addons in Lua.
 - **[ZenForge](https://github.com/masshirodev/zenforge)**: Developing a dedicated IDE for the GPC language.
-- **[mash-cronus-scripts](https://github.com/masshirodev/mash-cronus-scripts)**: My Cronus Zen scripts, built with ZenForge.
 - **[TooManyFish](https://github.com/masshirodev/TooManyFish)**: A utility addon for inventory management and fishing automation in FFXIV.
-- **[dotfiles](https://github.com/masshirodev/dotfiles)**: My personal Hyprland configuration and desktop environment setup.
 
 ### 🎮 Melvor Idle mods
 - **[melvor-auto-sailing](https://github.com/masshirodev/melvor-auto-sailing)**: Automates the Sailing skill's trade loop, so ships never sit idle waiting for a click.
