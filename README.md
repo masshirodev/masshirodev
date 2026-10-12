@@ -4,7 +4,7 @@ I'm a developer passionate about building tools that streamline workflows and au
 
 ### 🛠 What I'm building
 - **[ranma](https://github.com/masshirodev/ranma)**: A tiling window manager for the terminal — i3's tree, Hyprland's dwindle, configured in Lua. Written in Rust.
-- **[ai-session](https://github.com/masshirodev/ai-session)**: A Go CLI that keeps AI coding tools (Claude Code, Codex, OpenCode) in isolated per-profile sessions, and lets the agents find and message each other.
+- **[kizuna](https://github.com/masshirodev/kizuna)**: A Go CLI that keeps AI coding tools (Claude Code, Codex, OpenCode) in isolated per-profile sessions, and lets the agents find and message each other.
 - **[minion-quick-start](https://github.com/masshirodev/minion-quick-start)**: A public template for rapid development of MMOMinion addons in Lua.
 - **[ZenForge](https://github.com/masshirodev/zenforge)**: Developing a dedicated IDE for the GPC language.
 - **[TooManyFish](https://github.com/masshirodev/TooManyFish)**: A utility addon for inventory management and fishing automation in FFXIV.
